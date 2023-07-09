@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "header_pluma.jpg"
+  image_fullwidth: "header_pluma.png"
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
