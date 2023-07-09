@@ -17,7 +17,7 @@ slogan: 'Documentación para curadores y usuarios'
 description: '»Documentación acerca del Portal de Biodiversidad de Guatemala para curadores y usuarios.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Creado con &hearts; por <a href="http://biodiversidad.gt/">Portal de Biodiversidad de Guatemala</a> con <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> basado en <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
