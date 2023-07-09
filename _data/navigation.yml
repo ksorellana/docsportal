@@ -1,12 +1,12 @@
-- title: Start
+- title: Inicio
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Guía Rápida
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Curadores"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Usuarios"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,11 +50,11 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Documentación
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Actividades"
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
@@ -63,13 +63,13 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Archivo del Blog"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Búsqueda"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contactos"
   url: "/contact/"
   side: right
