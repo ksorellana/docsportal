@@ -1,11 +1,11 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Getting Started in 10 Steps"
-subheadline         : "A Step-by-Step Guide"
-teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title               : "Dónde Empezar"
+subheadline         : "Una Guía Paso a Paso"
+teaser              : "Esta guía los ayudará a iniciar con el uso del Portal de Biodiversidad de Guatemala."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "header_quetzal.jpg"
 permalink           : "/getting-started/"
 ---
 1. Open `_config.yml` and work it through, it's well documented.
