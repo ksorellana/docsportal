@@ -78,7 +78,11 @@ exclude:
     - INSTALL.md
     - vendor
 
-
+header:
+    image_fullwidth: "GuatemalaHeader2-01.jpg"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+    
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'
 
