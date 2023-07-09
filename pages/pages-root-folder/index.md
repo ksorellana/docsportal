@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "mapas.jpg"
+  image_fullwidth: "header_pluma.jpg"
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Suscribirme al Boletín Mensual ›
+  url: https://biodiversidad.gt
+  text: Ir al Portal de Biodiversidad de Guatemala ›
   style: alert
 permalink: /index.html
 #
