@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_quetzal.jpg
+  image_fullwidth: "mapas.jpg"
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
