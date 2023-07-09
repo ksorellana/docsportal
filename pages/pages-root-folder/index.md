@@ -5,7 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-
+header:
+    image_fullwidth: "header_unsplash_5.jpg"
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
