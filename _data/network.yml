@@ -1,21 +1,16 @@
-- menu_name: "Agradecimientos"
+- menu_name: "Enlaces"
 
-- name: "Portal generado con Symbiota"
+- name: "Symbiota"
   url: "http://symbiota.org/"
   class: "network-entypo"
   title: "Portal generado con Symbiota"
-
-- name: "Encabezado por Sara L. Ríos"
-  #url: "http://foundation.zurb.com/"
-  #class: "services-newsletter"
-  title: "Imagen por Sara L. Ríos"
-
-- name: "Contenido por Samanta Orellana"
-  url: "https://orcid.org/0000-0002-4098-5823/"
-  class: "sitemap-link"
-  title: "Contenido por Samanta Orellana"
 
 - name: "Portal de Biodiversidad de Guatemala"
   url: "http://biodiversidad.gt/"
   class: "sitemap-link"
   title: "Portal de Biodiversidad de Guatemala"
+
+- name: "Instalación Symbiota en GBIF"
+  url: "https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f/"
+  class: "sitemap-link"
+  title: "Instalación Symbiota en GBIF"
