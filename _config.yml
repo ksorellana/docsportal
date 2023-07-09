@@ -84,7 +84,7 @@ header:
     caption_url: https://unsplash.com/
     
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'es'
 
 
 # Used › default.html front-matter and compress.html
