@@ -9,17 +9,18 @@ layout: frontpage
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
-  image: widget-1-302x182.jpg
+  image: Portal2.jpg
   text: 'Doucmentación actualizada para la digitalización y manejo de colecciones en el Portal de Biodiversidad de Guatemala.'
 widget2:
   title: "Documentación para Usuarios"
   url: 'http://biodiversidadgt.github.io/docs/usuarios/'
+  image: Mapas.jpg
   text: 'Doucmentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/biodiversidadgt/docs/blob/gh-pages/images/Mapas.jpg?raw=true" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Comunidad del Portal de Biodiversidad"
   url: 'http://biodiversidadgt.github.io/docs/blog/'
-  image: widget-github-303x182.jpg
+  image: Mapas.jpg
   text: 'Blog acerca de las actividades de digitalización desde las colecciones guatemaltecas que integran la Comunidad del Portal de Biodiversidad de Guatemala.'
 #
 # Use the call for action to show a button on the frontpage
