@@ -4,9 +4,10 @@ show_meta           : false
 title               : "Dónde Empezar"
 subheadline         : "Una Guía Paso a Paso"
 teaser              : "Esta guía los ayudará a iniciar con el uso del Portal de Biodiversidad de Guatemala."
-header: no
-image:
-    title: Mapas.jpg
+header: 
+       image_fullwidth: "header_pluma.jpg"
+            
+
 permalink           : "/getting-started/"
 ---
 1. Open `_config.yml` and work it through, it's well documented.
