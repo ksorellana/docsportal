@@ -6,6 +6,9 @@ subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 header:
-    image_fullwidth: "GuatemalaHeader2-01.jpg"
+    image_fullwidth: "header_pluma.jpg"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+# Administradores del Portal de Biodiversidad de Guatemala
+
+Samanta Orellana, Arizona State University, sorellana[at]asu.edu
+Zabdi López, Universitetet i Sørøst-Norge
