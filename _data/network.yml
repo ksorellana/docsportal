@@ -10,7 +10,7 @@
   class: "sitemap-link"
   title: "Instalación Symbiota en GBIF"
 
-  - name: "Symbiota"
+- name: "Symbiota"
   url: "http://symbiota.org/"
   class: "network-entypo"
   title: "Symbiota"
