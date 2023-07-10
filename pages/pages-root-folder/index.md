@@ -17,12 +17,11 @@ widget2:
   url: 'http://biodiversidadgt.github.io/docs/usuarios/'
   image: Mapas.jpg
   text: 'Doucmentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://github.com/biodiversidadgt/docs/blob/gh-pages/images/Mapas.jpg?raw=true" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Comunidad del Portal de Biodiversidad"
   url: 'http://biodiversidadgt.github.io/docs/blog/'
   image: Mapas.jpg
-  text: 'Blog acerca de las actividades de digitalización desde las colecciones guatemaltecas que integran la Comunidad del Portal de Biodiversidad de Guatemala.'
+  text: 'Actividades de digitalización desde las colecciones guatemaltecas que integran la Comunidad del Portal de Biodiversidad de Guatemala.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -44,6 +43,10 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+# Documentación del Portal de Biodiversidad de Guatemala
+
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
