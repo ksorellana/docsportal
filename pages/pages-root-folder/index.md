@@ -8,7 +8,7 @@ layout: frontpage
 header:
     image_fullwidth: "header_pluma.jpg"
 
-teaser: El <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a> es una plataforma especializada, basada en <a href='https://symbiota.org/es'>Symbiota<a>, para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
+teaser: El <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a> es una plataforma especializada, basada en <a href='https://symbiota.org/es'>Symbiota</a>, para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
 
 widget1:
   title: "Documentación Para Curadores"
