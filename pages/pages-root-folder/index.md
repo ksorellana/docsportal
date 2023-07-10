@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-    image_fullwidth: "header_unsplash_5.jpg"
+    image_fullwidth: "GuatemalaHeader2-01.jpg"
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
