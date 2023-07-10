@@ -45,6 +45,4 @@ permalink: /index.html
 homepage: true
 ---
 
-# Documentación del Portal de Biodiversidad de Guatemala
-
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
