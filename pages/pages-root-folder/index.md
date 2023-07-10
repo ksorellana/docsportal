@@ -23,7 +23,7 @@ widget2:
 widget3:
   title: "Symbiota"
   url: 'http://symbiota.org/es/'
-  image: SSHub_JPG.jpg
+  image: widsymbiota.jpg
   text: 'Conozca más acerca de esta plataforma especializada en el manejo de datos de biodiversidad, con la cual fue generada nuestro Portal.'
 #
 # Use the call for action to show a button on the frontpage
