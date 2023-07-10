@@ -5,7 +5,7 @@ subheadline: "How to use Feeling Responsive"
 teaser: "The documentation is a work in progress..."
 permalink: "/documentation/"
 header:
-   image_fullwidth: "GuatemalaHeader2-01.jpg"
+   image_fullwidth: "header_pluma.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
