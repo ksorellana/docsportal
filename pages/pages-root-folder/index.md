@@ -7,6 +7,17 @@
 layout: frontpage
 header:
     image_fullwidth: "header_pluma.jpg"
+
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
+homepage: true
+---
+
+# Documentación del Portal de Biodiversidad de Guatemala
+
+El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
+
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
@@ -38,15 +49,6 @@ callforaction:
   style: alert
 permalink: /index.html
 #
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
----
-
-# Documentación del Portal de Biodiversidad de Guatemala
-
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
