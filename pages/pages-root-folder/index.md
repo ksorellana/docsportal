@@ -8,11 +8,6 @@ layout: frontpage
 header:
     image_fullwidth: "header_pluma.jpg"
 
-title               : "Documentación del Portal de Biodiversidad de Guatemala"
-meta_title          : "Documentación"
-subheadline         : "Información para curadores y usuarios"
-teaser              : "El Portal de Biodiversidad de Guatemala es una plataforma especializada, basada en Symbiota, para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales."
-
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
