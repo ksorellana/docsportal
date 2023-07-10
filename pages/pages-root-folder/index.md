@@ -8,7 +8,7 @@ layout: frontpage
 header:
     image_fullwidth: "header_pluma.jpg"
 
-teaser: "El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales."
+teaser: "El Portal de Biodiversidad de Guatemala es una plataforma especializada, basada en Symbiota, para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales."
 
 widget1:
   title: "Documentación Para Curadores"
@@ -23,7 +23,7 @@ widget2:
 widget3:
   title: "Symbiota"
   url: 'http://biodiversidadgt.github.io/docs/blog/'
-  image: SSHHub_JPG.jpg
+  image: SSHub_JPG.jpg
   text: 'Plataforma especializada en el manejo de datos de biodiversidad.'
 #
 # Use the call for action to show a button on the frontpage
