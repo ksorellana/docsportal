@@ -8,21 +8,23 @@ layout: frontpage
 header:
     image_fullwidth: "header_pluma.jpg"
 
+teaser: "El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales."
+
 widget1:
   title: "Documentación Para Curadores"
   url: 'http://biodiversidadgt.github.io/docs/curadores/'
   image: Portal2.jpg
-  text: 'Doucmentación actualizada para la digitalización y manejo de colecciones en el Portal de Biodiversidad de Guatemala.'
+  text: 'Doucumentación actualizada para la digitalización y manejo de colecciones en el Portal de Biodiversidad de Guatemala.'
 widget2:
   title: "Documentación para Usuarios"
   url: 'http://biodiversidadgt.github.io/docs/usuarios/'
-  image: Mapas.jpg
-  text: 'Doucmentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
+  image: Mapacolor.jpg
+  text: 'Doucumentación actualizada para la la búsqueda y uso de información en el Portal de Biodiversidad de Guatemala.'
 widget3:
-  title: "Comunidad del Portal de Biodiversidad"
+  title: "Symbiota"
   url: 'http://biodiversidadgt.github.io/docs/blog/'
-  image: Mapas.jpg
-  text: 'Actividades de digitalización desde las colecciones guatemaltecas que integran la Comunidad del Portal de Biodiversidad de Guatemala.'
+  image: SSHHub_JPG.jpg
+  text: 'Plataforma especializada en el manejo de datos de biodiversidad.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -44,5 +46,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) es una plataforma especializada, basada en [Symbiota](https://symbiota.org/es/), para la digitalización y movilización de Colecciones Biológicas del país. Es administrado por biólogos guatemaltecos y mantenido por el Symbiota Support Hub, en apoyo a instituciones científicas nacionales.
