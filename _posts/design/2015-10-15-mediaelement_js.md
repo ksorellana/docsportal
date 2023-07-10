@@ -17,9 +17,9 @@ tags:
 #
 header: no
 image:
-    title: Mapas.jpg
-    thumb: Mapas.jpg
-    homepage: Mapas.jpg
+    title: Bienvenidos.jpg
+    thumb: Bienvenidos.jpg
+    homepage: Bienvenidos.jpg
     caption: Imagen Portal de Biodiversidad de Guatemala
     caption_url: https://biodiversidad.gt/
 mediaplayer: true
@@ -30,12 +30,10 @@ Visita nuestro [canal en Youtube](https://youtube.com/@guatemalaportal) para exp
 Tutoriales y charlas disponibles en español
 ~~~
 
-También pueden encontrar tutoriales acerca de [Symbiota](https://symbiota.org/es) y charlas impartidas en eventos nacionales e internacionales.
+## »Tutoriales y Charlas«
 
+Explore una amplia serie de tutoriales y charlas impartidas en eventos nacionales e internacionales. También pueden encontrar tutoriales acerca de [Symbiota](https://symbiota.org/es) para conocer más acerca de esta plataforma especializada en el manejo de datos de biodiversidad. 
 
-## »Tutoriales«
-
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
 
 ### Bienvenidos al Portal de Biodiversidad
 
