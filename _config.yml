@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/biodiversidadgt/docs/tree/gh-pages/images/'
+urlimg: 'https://github.com/biodiversidadgt/docs/tree/49ec1b6b1ebcfa64cc728c65096a2877f96aeb95/images/'
 
 
 # Logo size is 600x80 pixels
