@@ -3,7 +3,6 @@ layout: page
 subheadline: Información para Curadores
 title:  "Solicitud de Perfil Virtual"
 teaser: "Una vez hayan creado una cuenta, evaluado el tipo de datos que poseen (i.e. especímenes u observaciones) y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot), los curadores o encargados están listos para solicitar un perfil manejar su colección en el Portal de Biodiversidad."
-meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
 breadcrumb: true
 categories:
     - curadores
