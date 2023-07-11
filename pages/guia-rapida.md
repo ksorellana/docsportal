@@ -51,7 +51,7 @@ El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registr
 
 ## ¿Más preguntas?
 
-Contamos con extenso portafolio de [documentacion][1] y recursos disponibles en español para conocer más acerca de las funciones del Portal de Biodiversidad. No duden en contactar a los administradores para obtener atención personalizada.
+Contamos con extenso portafolio de [documentación][1] y recursos disponibles en español para conocer más acerca de las funciones del Portal de Biodiversidad. No duden en contactar a los administradores para obtener atención personalizada.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/">Información para curadores ›</a>
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/usuarios/">Información para usuarios ›</a>
