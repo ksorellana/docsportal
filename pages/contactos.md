@@ -3,7 +3,7 @@ layout              : page
 title               : "Contactos"
 meta_title          : "Cómo contactarnos"
 subheadline         : "¡Comuníquese con nosotros!"
-teaser              : "¿Preguntas acerca del Portal de Biodiversidad? No dude en contactarnos."
+teaser              : "¿Preguntas acerca del <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a>? No dude en contactarnos."
 permalink           : "/contactos/"
 header:
     image_fullwidth: "header_pluma.jpg"
