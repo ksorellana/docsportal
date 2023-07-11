@@ -25,3 +25,5 @@ Arizona State University, [**ORCID**](https://orcid.org/0000-0002-4098-5823), `s
 Universitetet i Sørøst-Norge, [**ORCID**](https://orcid.org/0000-0003-0449-7352), `zabdi[at]uvg.alumni.edu.gt`.
   
   Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Estudios Ambientales de la misma universidad. Actualmente continúa sus estudios de posgrado en Ecología y Estudios Ambientales en la Universidad del Sureste de Noruega. 
+
+![DSC04685 (1)](https://github.com/biodiversidadgt/docs/assets/69399374/5036af7c-ca27-40a5-9ae7-80bd76c6e8ca)
