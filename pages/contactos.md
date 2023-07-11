@@ -17,6 +17,7 @@ Arizona State University, [**ORCID**](https://orcid.org/0000-0002-4098-5823), so
 
   ![FotoSamanta](https://github.com/biodiversidadgt/docs/assets/69399374/215b6e40-bf30-4708-bee3-843cd28ecb0b)
 
+---
 
 ### M.Sc. Zabdi López
 Universitetet i Sørøst-Norge, [**ORCID**](https://orcid.org/0000-0003-0449-7352), zabdi[at]uvg.alumni.edu.gt.
