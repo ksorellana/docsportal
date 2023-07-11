@@ -4,14 +4,12 @@ layout: page
 # Content
 #
 subheadline: "Charlas y Tutoriales"
-title: "Videos acerca del Portal de Biodiversidad de Guatemala"
-teaser: "¿Quieren aprender más acerca del Portal de Biodiversidad de Guatemala? Pueden explorar nuestra serie de videos de charlas informativas y tutoriales acerca del Portal de Biodiversidad y las herramientas disponibles para el manejo y digitalización de colecciones nacionales. "
+title: "Videos del Portal de Biodiversidad"
+teaser: "¿Quieren aprender más acerca del Portal de Biodiversidad de Guatemala? Pueden explorar nuestra serie de videos con charlas informativas y tutoriales acerca las herramientas disponibles para el manejo y digitalización de colecciones. "
 categories:
-  - design
+  - curadores
 tags:
-  - audio player
-  - video player
-  - streaming music
+  - video
 #
 # Styling
 #
@@ -23,6 +21,7 @@ image:
     caption: Tutoriales disponibles en Youtube
     caption_url: https://youtube.com/@guatemalaportal
 mediaplayer: true
+show_metadata: false
 ---
 Visita nuestro [canal en Youtube](https://youtube.com/@guatemalaportal) para explorar los videos disponibles.
 
