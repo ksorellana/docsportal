@@ -15,7 +15,7 @@ header:
 ### M.Sc. Samanta Orellana
 Arizona State University, [**ORCID**](https://orcid.org/0000-0002-4098-5823), `sorellana[at]asu.edu`.
   
-  Bióloga guatemalteca, graduada de la Universidad de San Carlos de Guatemala, con una Maestría en Entomología por la Universidad de Panamá. Actualmente es candidata doctoral en el programa de Biología Evolutiva de la universidad Arizona State University.
+  Bióloga guatemalteca, graduada de la Universidad de San Carlos de Guatemala, con una Maestría en Entomología por la Universidad de Panamá. Actualmente es candidata doctoral en el programa de Biología Evolutiva de la Universidad Estatal de Arizona.
 
   ![FotoSamanta](https://github.com/biodiversidadgt/docs/assets/69399374/215b6e40-bf30-4708-bee3-843cd28ecb0b)
 
