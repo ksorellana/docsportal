@@ -10,8 +10,8 @@
   url: "/curadores/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/curadores/grid/"
+  - title: "Solicitud de Perfil"
+    url: "/curadores/solicitud-perfil/"
   - title: "Typography"
     url: "/curadores/typography/typography/"
   - title: "Page/Post"
