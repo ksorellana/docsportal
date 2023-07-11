@@ -67,9 +67,9 @@
     url: "/blog/archive/"
 
 - title: "Búsqueda"
-  url: "/search/"
+  url: "/busqueda/"
   side: right
 
 - title: "Contactos"
-  url: "/contact/"
+  url: "/contactos/"
   side: right
