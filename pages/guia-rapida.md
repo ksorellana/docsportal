@@ -14,6 +14,8 @@ permalink           : "/guia-rapida/"
 1. Generar una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php). Sugerimos el formato `nombre.apellido` para el **usuario**.
 1. Conectarse con **usuario** y **contraseña**.
 
+---
+
 ## Curadores y Encargados de Colecciones
 
 El [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) está disponible para ser utilizado de forma gratuita por todo tipo de colecciones biológicas guatemaltecas. El objetivo principal de este portal es la digitalización y movilización de [datos de especímenes](https://biodiversidad.gt/portal/collections/list.php?db=21&hasimages=1&taxa=Solanaceae&usethes=1&taxontype=2), pero también cuenta con herramientas para manejar [proyectos de observaciones](https://biodiversidad.gt/portal/collections/list.php?db=7&reset=1&country=Guatemala&state=&county=) pequeños. Para elegir la mejor forma de hacer uso del portal, los primero que se debe evaluar es el **tipo de manejo** que van a tener sus colecciones en línea.
@@ -35,6 +37,8 @@ Una vez se tenga clara la información anterior, los encargados de las coleccion
 
 `¡Ya pueden empezar a digitalizar!`
 
+---
+
 ## Investigadores y Usuarios Generales
 
 Los registros publicados en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) poseen licencias de libre acceso CC0 1.0, CC-BY o CC-BY-NC, por lo que pueden ser explorados por todos los usuarios. Sin embargo, se recomienda utilizar la plataforma [GBIF](https://www.gbif.org/installation/81a4adb0-0d86-420e-8b5e-7583985d1b6f) para descargar registros destinados a publicaciones, y así poder obtener un DOI con el que las colecciones pueden ser citadas. Si se descargan datos directamente del Portal de Biodiversidad, se recomienda copiar y citar el enlace permanente generado en la búsqueda.
@@ -42,6 +46,8 @@ Los registros publicados en el [Portal de Biodiversidad de Guatemala](https://bi
 El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registros e imágenes. No es necesario que los usuarios generen una cuenta para realizar estas acciones, sin sin embargo, deben estar registrados para tener acceso a herramientas adicionales como los editores de listados de especies y conjuntos de datos. Contactar a los **administradores del Portal** para solicitar acceso a estas herramientas.
 
 ![MapaColor](https://biodiversidadgt.github.io/docs/images/Mapacolor.jpg)
+
+---
 
 ## ¿Más preguntas?
 
