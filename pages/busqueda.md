@@ -1,5 +1,5 @@
 ---
-permalink: /search/
+permalink: /busqueda/
 layout: page
 title: "Búsqueda"
 sitemap: false
