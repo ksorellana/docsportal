@@ -10,8 +10,8 @@ header:
 
 permalink           : "/guia-rapida/"
 ---
-1. Dirigirse a `biodiversidad.gt`.
-1. Generar una cuenta. Sugerimos el formato `nombre.apellido` para el **usuario**.
+1. Dirigirse a [**biodiversidad.gt**](https://biodiversidad.gt).
+1. Generar una [cuenta](https://biodiversidad.gt/portal/profile/newprofile.php). Sugerimos el formato `nombre.apellido` para el **usuario**.
 1. Conectarse con **usuario** y **contraseña**.
 
 ## Curadores y Encargados de Colecciones
@@ -47,7 +47,8 @@ El Portal de Biodiversidad posee herramientas de búsqueda y descarga de registr
 
 Contamos con extenso portafolio de [documentacion][1] y recursos disponibles en español para conocer más acerca de las funciones del Portal de Biodiversidad. No duden en contactar a los administradores para obtener atención personalizada.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Leer más documentación ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/curadores/">Información para curadores ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/usuarios/">Información para usuarios ›</a>
 
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentacion/
