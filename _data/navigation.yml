@@ -10,7 +10,7 @@
   url: "/curadores/"
   side: left
   dropdown:
-  - title: "Solicitud de Perfil"
+  - title: "Solicitud de Perfil Virtual"
     url: "/curadores/solicitud-perfil/"
   - title: "Typography"
     url: "/curadores/typography/typography/"
