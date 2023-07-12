@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""Información para Curadores
+title: ""Información para Curadores"
 subheadline: "Digitalización y Manejo de Colecciones"
 teaser: "Documentación para curadores, enfocada en la digitalización y manejo de datos de colecciones biológicas."
 permalink: "/curadores/"
