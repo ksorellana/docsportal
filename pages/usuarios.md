@@ -63,9 +63,17 @@ Para más información acerca de la búsqueda de información, pueden dirigirse 
 
 Para realizar una búsqueda de los registros disponibles en el Portal de Biodiversidad, deben dirigirse a la pestaña de [Colecciones](https://biodiversidad.gt/portal/collections/index.php) en el menú superior. Una vez en esa ventana, se deben seleccionar las colecciones o el tipo de registros (especímenes u observaciones) que desea incluirse en la búsqueda. 
 
+![Búsqueda](https://github.com/biodiversidadgt/docs/assets/69399374/260c7516-29ef-489f-99bf-a6a7c4351bb3)
+
 Continuar hacia el formulario de búsqueda y escribir los detalles de la información que desea encontrar, en las casillas correspondientes.
 
-Los registros encontrados pueden ser desplegados en forma de lista o tabla para su exploración. Además, será elaborado un listado de especies (pestaña superior izquierda), y podrá generarse un mapa con los registros que posean coordenadas (pestaña superior derecha). Los registros pueden ser descargados en varios formatos (ícono de flecha hacia abajo), o puede generarse un vínculo permanente (ícono de enlace) para guardar la búsqueda (**no copiar la URL generada en el navegador**).
+![BúsquedaForm](https://github.com/biodiversidadgt/docs/assets/69399374/7ba67c8e-f1ee-434f-b9bc-cb9c5447e125)
+
+
+Los registros encontrados pueden ser desplegados en forma de lista o tabla para su exploración. Además, será elaborado un listado de especies (pestaña superior izquierda), y podrá generarse un mapa con los registros que posean coordenadas (pestaña superior derecha). Los registros pueden ser descargados en varios formatos (ícono de flecha hacia abajo), o puede generarse [**un vínculo permanente**](https://biodiversidad.gt/portal/collections/list.php?country=Guatemala&taxa=Quercus&usethes=1&taxontype=2&page=2) (ícono de enlace) para guardar la búsqueda (**no copiar la URL generada en el navegador**).
+
+[![BúsquedaQuercus](https://github.com/biodiversidadgt/docs/assets/69399374/36385e2e-6a0e-4257-a19c-aee2abce1204)
+](https://biodiversidad.gt/portal/collections/list.php?country=Guatemala&taxa=Quercus&usethes=1&taxontype=2&page=2)
 
 ---
 
