@@ -57,49 +57,55 @@ Para más información acerca de la búsqueda de información, pueden dirigirse 
 [![image](https://github.com/biodiversidadgt/docs/assets/69399374/c236adf8-7a8d-4f61-bcc6-8782e1cdb7e4)
 ](https://www.youtube.com/watch?v=ZWF7ZwVcSwo)
 
+---
+
 ### Búsqueda en Colecciones
 
-Para realizar una búsqueda de los registros disponibles en el Portal de Biodiversidad, deben dirigirse a la pestaña de [Colecciones](https://biodiversidad.gt/portal/collections/index.php) en el menú superior. Una vez en esa ventana, se deben seleccionar las colecciones o el tipo de registros (especímenes u observaciones) que desea incluirse en la búsqueda.
+Para realizar una búsqueda de los registros disponibles en el Portal de Biodiversidad, deben dirigirse a la pestaña de [Colecciones](https://biodiversidad.gt/portal/collections/index.php) en el menú superior. Una vez en esa ventana, se deben seleccionar las colecciones o el tipo de registros (especímenes u observaciones) que desea incluirse en la búsqueda. 
 
-### Perfiles en vivo
+Continuar hacia el formulario de búsqueda y escribir los detalles de la información que desea encontrar, en las casillas correspondientes.
 
-Los perfiles en vivo van a permitir el `manejo directo de los datos` dentro del Portal de Biodiversidad. Los administradores de estos perfiles tienen acceso a todas las herramientas de edición disponibles dentro del Portal de Biodiversidad. Todas las colecciones de instituciones guatemaltecas manejadas actualmente en el Portal de Biodiversidad poseen perfiles de manejo en vivo. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21) de colección manejada en vivo.
-
-### Perfiles snapshot
-
-Los perfiles snapshot (imágenes) van a ser `copias de bases de datos existentes` en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles snapshot en el Portal de Biodiversidad. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=56) de colección snapshot.
+Los registros encontrados pueden ser desplegados en forma de lista o tabla para su exploración. Además, será elaborado un listado de especies (pestaña superior izquierda), y podrá generarse un mapa con los registros que posean coordenadas (pestaña superior derecha). Los registros pueden ser descargados en varios formatos (ícono de flecha hacia abajo), o puede generarse un vínculo permanente (ícono de enlace) para guardar la búsqueda (**no copiar la URL generada en el navegador**).
 
 ---
 
-## Tipos de Permisos en los Perfiles Virtuales
+### Búsqueda en Mapas
 
-Únicamente los curadores pueden solicitar la generación de un perfil de colección, y son agregados automáticamente como administradores del perfil. Sin embargo, existe la posibilidad de agregar más usuarios en los perfiles, con distintos tipo de acceso.
+Los registros de especímenes u observaciones con coordenadas pueden ser encontrados con esta herramienta. 
 
-### Administradores del perfil
+Para realizar una búsqueda en el mapa, deben dirigirse a la pestaña de Búsqueda en el menú superior, y seleccionar la opción [Map Search](https://biodiversidad.gt/portal/collections/map/index.php) o Búsqueda en Mapa. Una vez en esa ventana, se deben abrir el Panel de Búsqueda (Open Search Panel) en la parte superior izquierda, para seleccionar las colecciones y criterios que desea incluir en la búsqueda (tener en cuenta que existe un límite de 15,000 registros por búsqueda).
 
-Tienen acceso a todas las funciones de ingreso y edición de datos. Los administradores, además, pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
+![image](https://github.com/biodiversidadgt/docs/assets/69399374/ded35988-731e-469e-9670-82e736a40728)
 
-![PerfilUSCGadmin](https://github.com/biodiversidadgt/docs/assets/69399374/c932cb52-d917-4b1a-81d2-c84ea322d5e8)
-Perfil virtual visto por un administrador, con todas las herramientas activadas.
+Una vez generada la búsqueda, podrá observar los puntos de los registros encontrados en el mapa, y el listado de especímenes u observaciones en el panel a la izquierda. Los registros por especímenes serán representados por círculos, y los registros por observaciones se verán en forma de triángulo.
 
-### Editores del perfil
+![image](https://github.com/biodiversidadgt/docs/assets/69399374/0423877f-fab3-4f0c-9c59-2d4f7c6898e6)
 
-Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, ni editar la información de la colección.
+Los colores de los puntos pueden ser cambiados automáticamente o de forma manual, de acuerdo con las colecciones o taxa representados. Los registros pueden ser descargados en varios formatos (ícono de flecha hacia abajo), o puede generarse un vínculo permanente (ícono de enlace) para guardar la búsqueda (no copiar la URL generada en el navegador).
 
-![PerfilUSCGeditor](https://github.com/biodiversidadgt/docs/assets/69399374/f1956e6f-9d5e-4c63-af79-025071df11ca)
-Perfil virtual visto por un editor, únicamente con el panel respectivo activado.
+![image](https://github.com/biodiversidadgt/docs/assets/69399374/b98e1119-439b-44ac-9e5a-370c00802897)
 
 ---
 
-## Solicitar un Perfil Virtual en el Portal de Biodiversidad
+### Búsqueda de Imágenes
 
-Los curadores o encargados de las colecciones pueden solicitar uno o varios perfiles virtuales para sus colecciones, una vez hayan evaluado el tipo de datos que poseen (i.e. especímenes u observaciones) y el tipo de manejo que quieren utilizar (i.e. manejo en vivo o snapshot).
+Las imágenes incluídas en los registros de especímenes u observaciones disponibles en el Portal de Biodiversidad, o ingresadas como vouchers para las fichas de especies, pueden ser encontrados con esta herramienta.
 
-Con una [cuenta activa](https://biodiversidad.gt/portal/profile/newprofile.php), los curadores pueden solicitar la creación del perfil de la colección a los [administradores del portal](https://biodiversidadgt.github.io/docs/contactos/), enviando la siguiente información:
+Para realizar una búsqueda de las imagenes disponibles en el Portal de Biodiversidad, deben dirigirse a la pestaña de [Imágenes](https://biodiversidad.gt/portal/imagelib/search.php) en el menú superior. Una vez en esa ventana, se debe seleccionar la especie o grupo taxonómico deseado, fotógrafo, tipo de imagen, y colecciones que desean ser incluidas (en caso de buscar imágenes de especímenes preservados o etiquetas).
 
-- Nombre y acrónimo de la universidad o institución.
-- Nombre, acrónimo y descripción de la colección.
-- Nombre y contacto del curador.
-- Tipo de perfil que desea generar (manejo directo o snapshot).
-- Tipo de registros que desea manejar (especímenes u observaciones).
-- Una vez generado el perfil, el solicitante será añadido como administrador del perfil y podrá iniciar con el ingreso de datos.
+Las imágenes encontradas serán desplegadas para su exploración. No hay forma de generar un enlace permanente para guardar la búsqueda, por lo que deben citarse los enlaces individuales de cada imagen. Por favor revisar los derechos de uso, antes de descargar y utilizar las imágenes.
+
+---
+
+## Cómo Citar la Información
+
+La información contenida en el Portal de Biodiversidad de Guatemala ha sido compartida bajo licencias de libre acceso. Sin embargo, es necesario que los datos sean citados correctamente para reconocer el esfuerzo realizado por cada una de las colecciones para compartir los registros e imágenes. En esta [página](https://biodiversidad.gt/portal/includes/usagepolicy.php) se pueden encontrar los formatos sugeridos para citar el uso de datos obtenidos en el Portal de Biodiversidad, sin embargo, es altamente recomendado que la descarga de datos para estudios científicos se realice a través de la plataforma [GBIF](https://tinyurl.com/portalgbif), para obtener un identificador único que facilitará vincular la publicación con el perfil de las colecciones. 
+
+- Cita General
+
+Biodiversidad de Guatemala. 2023. https://biodiversidad.gt/portal/index.php. Accesado en July 11.
+
+- Uso de datos de ocurrencia de instituciones específicas
+
+Datos de ocurrencia de biodiversidad publicados por: Escuela de Biología USAC, y Centro de Estudios Conservacionistas USAC (Accesado por medio del Portal de Biodiversidad de Guatemala , https://biodiversidad.gt/portal/index.php, 2023-07-11)
+
