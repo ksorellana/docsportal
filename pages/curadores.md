@@ -1,4 +1,4 @@
-![image](https://github.com/biodiversidadgt/docs/assets/69399374/ac4f82e7-c525-4982-8b73-a5291dd74b0a)---
+---
 layout: page-fullwidth
 title: ""Información para Curadores
 subheadline: "Digitalización y Manejo de Colecciones"
