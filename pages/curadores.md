@@ -21,7 +21,6 @@ header:
 
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
 
 ## Tipos de Datos de Biodiversidad   {#datos-biodiversidad}
 
