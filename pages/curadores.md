@@ -32,7 +32,7 @@ Es el principal tipo de datos manejados dentro del Portal de Biodiversidad. Esto
 
 [![image](https://github.com/biodiversidadgt/docs/assets/69399374/d1754118-980e-44c2-b719-2be3575d2eac)
 ](https://biodiversidad.gt/portal/collections/individual/index.php?occid=8126&clid=0)
-`Fotografía: Julio Ayala. Colección de Artrópodos UVGC.`
+Fotografía: Julio Ayala. Colección de Artrópodos UVGC.
 
 ### Registros de especímenes vivos
 
@@ -44,7 +44,7 @@ Se refiere a registros esporádicos, realizados al observar un organismo en esta
 
 [![image](https://github.com/biodiversidadgt/docs/assets/69399374/0c493177-cf6d-4f84-bee1-e601a093df33)
 ](https://biodiversidad.gt/portal/collections/individual/index.php?occid=7672&clid=0)
-`Fotografía: María José Chang. Colección Fotográfica UVGF.`
+Fotografía: María José Chang. Colección Fotográfica UVGF.
 
 ---
 
@@ -64,7 +64,7 @@ Los perfiles en vivo van a permitir el `manejo directo de los datos` dentro del 
 
 ### Perfiles snapshot
 
-Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles snapshot en el Portal de Biodiversidad. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=56) de colección snapshot.
+Los perfiles snapshot (imágenes) van a ser `copias de bases de datos existentes` en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles snapshot en el Portal de Biodiversidad. [Ejemplo](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=56) de colección snapshot.
 
 ---
 
@@ -77,14 +77,14 @@ Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes 
 Tienen acceso a todas las funciones de ingreso y edición de datos. Los administradores, además, pueden otorgar permisos a otros usuarios, eliminar registros, y editar la información de la colección.
 
 ![PerfilUSCGadmin](https://github.com/biodiversidadgt/docs/assets/69399374/c932cb52-d917-4b1a-81d2-c84ea322d5e8)
-`Perfil virtual visto por un administrador, con todas las herramientas activadas.`
+Perfil virtual visto por un administrador, con todas las herramientas activadas.
 
 ### Editores del perfil
 
 Tienen acceso a todas las funciones de ingreso y edición de datos. No pueden otorgar permisos a otros usuarios, ni editar la información de la colección.
 
 ![PerfilUSCGeditor](https://github.com/biodiversidadgt/docs/assets/69399374/f1956e6f-9d5e-4c63-af79-025071df11ca)
-`Perfil virtual visto por un editor, únicamente con el panel respectivo activado.`
+Perfil virtual visto por un editor, únicamente con el panel respectivo activado.
 
 ---
 
