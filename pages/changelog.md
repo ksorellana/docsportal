@@ -5,7 +5,7 @@ meta_title: "Feeling Responsive Theme Changelog"
 subheadline: "Feeling Responsive Theme Changelog"
 teaser: "History and changelog of Feeling Responsive Theme"
 header:
-   image_fullwidth: "header_quetzal.jpg"
+   image_fullwidth: "header_pluma.jpg"
 permalink: "/changelog/"
 ---
 2021-06-21 // Version 1.92
