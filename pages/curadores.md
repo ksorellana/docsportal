@@ -42,8 +42,6 @@ Similares a los registros de especímenes preservados, pero la información prov
 
 Se refiere a registros esporádicos, realizados al observar un organismo en estado silvestre. Requieren de evidencia fotográfica, ya que los organismos no son capturados. Actualmente, Symbiota no maneja otro tipo de archivos multimedia como videos o sonidos. Ejemplo de colección de especímenes vivos.
 
-{% include alert text='Just a note!' %}
-
 ![image](https://github.com/biodiversidadgt/docs/assets/69399374/0c493177-cf6d-4f84-bee1-e601a093df33)
 `Fotografía: María José Chang. Colección Fotográfica UVGF.`
 
@@ -60,3 +58,8 @@ Los perfiles en vivo van a permitir el manejo directo de los datos dentro del Po
 Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes en otras plataformas, y sólo van a permitir la publicación de los datos en el Portal, sin posibilidad de realizar ediciones. Los curadores que prefieren este tipo de perfiles, ya cuentan con un sistema de manejo de colecciones local. Los perfiles de instituciones extranjeras y los perfiles de observaciones de iNaturalist, cuentan con un manejo externo y únicamente se cuenta con perfiles snapshot en el Portal de Biodiversidad. Ejemplo de colección snapshot.
 
 ### Colecciones manejadas en vivo en el Portal de Biodiversidad
+
+{% include _improve_content.html %}
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
