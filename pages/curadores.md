@@ -58,7 +58,5 @@ Los perfiles snapshot (imágenes) van a ser copias de bases de datos existentes 
 
 ### Colecciones manejadas en vivo en el Portal de Biodiversidad
 
-{% include _improve_content.html %}
-
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
