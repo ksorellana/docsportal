@@ -26,11 +26,11 @@ show_metadata: false
 
 ---
 
-## Charla para la Red de Herbarios de Mesoamérica y el Caribe
-
 El jueves 13 de julio de 2023, se realizó la charla "Portales Symbiota como Herramienta de Digitalización para Colecciones Botánicas" para los integrantes de la Red de Herbarios de Mesoamérica y el Caribe. La presentación estuvo a cargo de Samanta Orellana, administradora del Portal de Biodiversidad de Guatemala y Coordinadora de las Comunidades Internacionales del equipo Symbiota. 
 
 Visiten nuestro [canal en Youtube](https://youtube.com/@guatemalaportal) para ver los videos disponibles.
+
+
 
 
 
