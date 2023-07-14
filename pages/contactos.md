@@ -2,13 +2,13 @@
 layout              : page
 title               : "Contactos"
 meta_title          : "Cómo contactarnos"
-teaser              : "¿Preguntas acerca del <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a>? No dude en contactarnos."
+teaser              : "¿Preguntas acerca del <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a>? ¡No dude en contactarnos!"
 permalink           : "/contactos/"
 header:
     image_fullwidth: "header_pluma.jpg"
 ---
 
----
+
 
 ## Administradores del Portal de Biodiversidad de Guatemala
 
@@ -33,7 +33,9 @@ Universitetet i Sørøst-Norge, [**ORCID**](https://orcid.org/0000-0003-0449-735
 ---
 
 ## Equipo Symbiota
-Symbiota Support Hub, Arizona State University, `ayuda[at]symbiota.org` o `help.symbiota.org`.
+Arizona State University, `ayuda[at]symbiota.org` o `help.symbiota.org`.
+
+---
 
 Asistencia técnica para colecciones ya incluidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), o para colecciones en otros países.
 
