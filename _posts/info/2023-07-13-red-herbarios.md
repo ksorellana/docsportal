@@ -26,7 +26,7 @@ show_metadata: false
 
 ---
 
-El jueves 13 de julio de 2023, se realizó la charla "Portales Symbiota como Herramienta de Digitalización para Colecciones Botánicas", durante la serie "Hora Clorofila" de la Red de Herbarios de Mesoamérica y el Caribe. La presentación estuvo a cargo de Samanta Orellana, [administradora](https://biodiversidadgt.github.io/docs/contactos/) del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y Coordinadora de las Comunidades Internacionales del equipo [Symbiota](https://symbiota.org/ayuda). La charla además, contó con la participación del Dr. Nico Franz, director del equipo Symbiota, y de la Dra. Maura Quezada, curadora del Herbario USCG-CECON de Guatemala.
+El jueves 13 de julio de 2023, se realizó la charla "Portales Symbiota como Herramienta de Digitalización para Colecciones Botánicas", durante la serie "Hora Clorofila" de la Red de Herbarios de Mesoamérica y el Caribe. La presentación estuvo a cargo de Samanta Orellana, [administradora](https://biodiversidadgt.github.io/docs/contactos/) del [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt) y Coordinadora de las Comunidades Internacionales del equipo [Symbiota](https://symbiota.org). La charla además, contó con la participación del Dr. Nico Franz, director del equipo Symbiota, y de la Dra. Maura Quezada, curadora del [Herbario USCG-CECON](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=21) de Guatemala.
 
 La grabación se encuentra disponible en el [canal de Youtube](https://www.youtube.com/watch?v=ihvChPHdxew) de la Red.
 
