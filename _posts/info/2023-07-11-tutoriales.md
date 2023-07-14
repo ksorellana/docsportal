@@ -26,7 +26,7 @@ show_metadata: false
 
 ---
 
-## »Tutoriales y Charlas«
+## Tutoriales y Charlas
 
 Pueden explorar una amplia serie de tutoriales y charlas impartidas en eventos nacionales e internacionales. También pueden encontrar tutoriales acerca de [Symbiota](https://symbiota.org/es) para conocer más acerca de esta plataforma especializada en el manejo de datos de biodiversidad. 
 
