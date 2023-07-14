@@ -2,12 +2,14 @@
 layout              : page
 title               : "Contactos"
 meta_title          : "Cómo contactarnos"
-subheadline         : "¡Comuníquese con nosotros!"
 teaser              : "¿Preguntas acerca del <a href='https://biodiversidad.gt'>Portal de Biodiversidad de Guatemala</a>? No dude en contactarnos."
 permalink           : "/contactos/"
 header:
     image_fullwidth: "header_pluma.jpg"
 ---
+
+---
+
 ## Administradores del Portal de Biodiversidad de Guatemala
 
 ---
@@ -27,4 +29,18 @@ Universitetet i Sørøst-Norge, [**ORCID**](https://orcid.org/0000-0003-0449-735
   Biólogo guatemalteco, graduado de la Universidad del Valle de Guatemala, con una Maestría en Estudios Ambientales de la misma universidad. Actualmente continúa sus estudios de posgrado en Ecología y Estudios Ambientales en la Universidad del Sureste de Noruega. 
 
 <img src="https://github.com/biodiversidadgt/docs/assets/69399374/5036af7c-ca27-40a5-9ae7-80bd76c6e8ca" alt="Araecerus fasciculatus" width="250" height="400">
+
+---
+
+## Equipo Symbiota
+Symbiota Support Hub, Arizona State University, `ayuda[at]symbiota.org` o `help.symbiota.org`.
+
+Asistencia técnica para colecciones ya incluidas en el [Portal de Biodiversidad de Guatemala](https://biodiversidad.gt), o para colecciones en otros países.
+
+![SSHBio](https://github.com/biodiversidadgt/docs/assets/69399374/5617acc3-e2c7-40af-a261-a649d4117020)
+
+
+
+
+
 
